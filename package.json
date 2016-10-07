@@ -19,7 +19,7 @@
   "homepage": "https://github.com/maxogden/yo-yo#readme",
   "dependencies": {
     "bel": "^4.0.0",
-    "morphdom": "^2.1.0"
+    "morphdom": "github:ahdinosaur/morphdom#ie-placeholder-bug"
   },
   "devDependencies": {
     "browserify": "^13.0.1",
